@@ -19,7 +19,7 @@ Before running the script, ensure you have the following:
    If the code is hosted in a repository, you can clone it using:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/eder1234/pollock_plots.git
    ```
 
    Alternatively, download the Python script directly to your local machine.
