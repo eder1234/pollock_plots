@@ -59,7 +59,7 @@ To run the script, ensure your Python environment is activated and execute:
 ```
 python pollock_plot-0.py
 ```
-
+This code uses by default the `master_08052022.pkl` as input. You can edit the code if necessary. 
 ## Output
 
 The output plots will be saved in a folder named `cluster_plots` within the same directory as your script. Each plot will be named according to its cluster, for example, `cluster_1.png`, `cluster_2.png`, etc.
